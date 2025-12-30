@@ -2,7 +2,7 @@
 
 A CLI tool that creates a council of AI models to discuss topics and reach an agreement.
 
-I was trying to create a new feature for my other project, but I think this is also sth cool to test and play with it. I got inspired by Pewdiepies vid and also (im not sure which one) another github repo for ai council. 
+I was trying to create a new feature for my other project, but I think this is also sth cool to test and play with it. I got inspired by Pewdiepies vid and also karpathys llm-council project. 
 
 Feel free to use it, upgrade it, whatever you want to.
 
