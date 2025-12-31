@@ -1,12 +1,12 @@
 # AI Council CLI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A CLI tool that creates a council of AI models to discuss topics and reach an agreement.
 
 I was trying to create a new feature for my other project, but I think this is also sth cool to test and play with it. I got inspired by Pewdiepies vid and also karpathys llm-council project. 
 
 Feel free to use it, upgrade it, whatever you want to.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <img width="1050" height="621" alt="image" src="https://github.com/user-attachments/assets/45184122-d5e0-4037-b48d-acea6d5b9dcd" />
 
